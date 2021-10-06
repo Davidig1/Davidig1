@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Davidig1
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning android application development
+- 💞️ I’m looking to collaborate on all kinds of web development projects
+- 📫 How to reach me dvisglap@gmail.com
